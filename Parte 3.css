@@ -1,0 +1,19 @@
+p{
+	height: 100px;
+	width: 300px;
+	text-align: left;
+	margin: 20px;
+	padding: 10px;
+	display: inline-block;
+}
+#A{
+	background-color: yellow;
+		
+}
+#B{
+	background-color: red;
+
+}
+#C{
+	background-color: yellow;
+}
