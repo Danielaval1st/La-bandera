@@ -1,0 +1,17 @@
+p{
+	height: 100px;
+	width: 1000px;
+	text-align: left;
+	margin: 0px;
+}
+#A{
+	background-color: yellow;
+	
+}
+#B{
+	background-color: red;
+
+}
+#C{
+	background-color: yellow;
+}
